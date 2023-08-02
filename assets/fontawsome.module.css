@@ -1,0 +1,9 @@
+.my-icon::before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f007";
+    display: inline-block;
+    padding-right: 3px;
+    vertical-align: middle;
+    font-weight: 900;
+  }
+  
