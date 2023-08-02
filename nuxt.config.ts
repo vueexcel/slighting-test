@@ -32,4 +32,5 @@ export default defineNuxtConfig({
     '/': { redirect: '/led-flat-panels-choose-your-options/' }
   },
   plugins: [{ src: '~/plugins/font-awesome.js', mode: 'client' }],
+  ssr: false
 });
